@@ -1,6 +1,6 @@
 # Ejercicio1-POO
 
-## Ejercicio Resuelto No 4.
+## Ejercicio propuesto No 4 - Libro Lógica de Programación de Efraín Oviedo.
 
 ### Hacer el siguiente algoritmo.
 
